@@ -1,0 +1,40 @@
+Problem:
+The hero section was not responsive on smaller screens.
+
+Reason:
+The hero layout used a horizontal flexbox without adapting to mobile devices.
+
+Solution:
+Added a media query at max-width:768px.
+Changed flex-direction from row to column.
+Set hero image width to 100%.
+Centered all text and navigation items.
+
+Result:
+The landing page is fully responsive on desktop, tablet and mobile devices.
+
+
+
+
+
+::::::README.md::::::
+
+
+AI Generated Landing Page
+
+Tools Used
+
+• ChatGPT
+• Adobe Firefly
+• Figma AI / Uizard
+• React
+• CSS
+
+Features
+
+✔ Responsive Landing Page
+✔ Hero Banner
+✔ Featured Artists
+✔ Ticket Pricing
+✔ Modern Dark Theme
+✔ Mobile Responsive
